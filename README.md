@@ -8,3 +8,8 @@ It will be developed in a series of sub-projects
   # Lineage-Project
   # PersonalPages-Project
   # others to be determined.
+
+Webpage elements
+#  home page
+#  links to pages from navigation column on home page
+  #
